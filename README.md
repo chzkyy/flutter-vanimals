@@ -1,6 +1,13 @@
 # vanimals
 
-A new Flutter project.
+vanimals is an animal voice recognition app. This app aims to introduce animals to children.
+
+Download Apps:
+https://drive.google.com/file/d/1mNtDW9iexd7fvnSceCKv0TlDQfTD2uKl/view?usp=sharing
+
+UI Design:
+(https://user-images.githubusercontent.com/69044903/120888660-b4898b00-c623-11eb-8f21-899ce9491895.png)
+
 
 ## Getting Started
 

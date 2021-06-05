@@ -6,7 +6,8 @@ Download Apps:
 https://drive.google.com/file/d/1mNtDW9iexd7fvnSceCKv0TlDQfTD2uKl/view?usp=sharing
 
 UI Design:
-(https://user-images.githubusercontent.com/69044903/120888660-b4898b00-c623-11eb-8f21-899ce9491895.png)
+![Screenshot from 2021-06-05 15-49-15](https://user-images.githubusercontent.com/69044903/120888706-0500e880-c624-11eb-9334-dc585ef18f07.png)
+
 
 
 ## Getting Started
